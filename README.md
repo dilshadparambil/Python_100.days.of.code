@@ -29,4 +29,4 @@ A simple project that generates a band name using the city you grew up in and yo
 4. Combine the name of their city and pet and show them their band name.
 5. Make sure the input cursor shows on a new line.
 
-📝 [Click here to view the code](Day01/day1_band_name_generator.py)
+📝 [Click here to view the code](Project_files/d1.py)
