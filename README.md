@@ -21,8 +21,6 @@ A simple project that generates a band name using the city you grew up in and yo
 
 📄 [View the code](Project_files/d1.py)
 
----
-
 ## 🧠 Concepts Covered
 - Printing to the console
 - Receiving user input
