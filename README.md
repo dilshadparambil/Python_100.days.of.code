@@ -19,7 +19,7 @@ Welcome to my journey of completing 100 Python projects in 100 days. This challe
 
 A simple project that generates a band name using the city you grew up in and your pet’s name.
 
-📄 [View the code](Project_files/d1.py)[🔼 Back to Top](#-table-of-contents)
+📄 [View the code](Project_files/d1.py) [🔼 Back to Top](#-table-of-contents)
 
 ### 🧠 Concepts Covered
 - Printing to the console
@@ -41,7 +41,7 @@ A simple project that generates a band name using the city you grew up in and yo
 
 A simple calculator that helps you split a bill, including tip, among multiple people.
 
-📄 [View the code](Project_files/d2.py)[🔼 Back to Top](#-table-of-contents)
+📄 [View the code](Project_files/d2.py) [🔼 Back to Top](#-table-of-contents)
 
 ### 🧠 Concepts Covered
 - Data types
