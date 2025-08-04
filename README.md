@@ -35,3 +35,7 @@ A simple project that generates a band name using the city you grew up in and yo
 5. Make sure the input cursor shows on a new line.
 
 [🔼 Back to Top](#-table-of-contents)
+
+---
+
+### Day 2: Tip Calculator
