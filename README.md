@@ -61,7 +61,7 @@ A simple calculator that helps you split a bill, including tip, among multiple p
 
 ### 💡 Example
   If the bill was $150.00, split between 5 people, with 12% tip:  
-  (150.00 / 5) * 1.12 = 33.6
+  `(150.00 / 5) * 1.12 = 33.6`
 
   After formatting:  
   Each person pays: 33.60
