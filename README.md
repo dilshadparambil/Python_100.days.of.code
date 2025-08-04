@@ -19,7 +19,7 @@ Welcome to my journey of completing 100 Python projects in 100 days. This challe
 
 A simple project that generates a band name using the city you grew up in and your pet’s name.
 
-📄 [View the code](Project_files/d1.py)
+📄 [View the code](Project_files/d1.py)[🔼 Back to Top](#-table-of-contents)
 
 ### 🧠 Concepts Covered
 - Printing to the console
@@ -34,7 +34,6 @@ A simple project that generates a band name using the city you grew up in and yo
 4. Combine the name of their city and pet and show them their band name.
 5. Make sure the input cursor shows on a new line.
 
-[🔼 Back to Top](#-table-of-contents)
 
 ---
 
@@ -42,7 +41,7 @@ A simple project that generates a band name using the city you grew up in and yo
 
 A simple calculator that helps you split a bill, including tip, among multiple people.
 
-📄 [View the code](Project_files/d2.py)
+📄 [View the code](Project_files/d2.py)[🔼 Back to Top](#-table-of-contents)
 
 ### 🧠 Concepts Covered
 - Data types
@@ -67,7 +66,6 @@ If the bill was $150.00, split between 5 people, with 12% tip:
 After formatting:
 Each person pays: 33.60
 ```
-[🔼 Back to Top](#-table-of-contents)
 
 ---
 
