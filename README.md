@@ -21,13 +21,13 @@ A simple project that generates a band name using the city you grew up in and yo
 
 📄 [View the code](Project_files/d1.py)
 
-## 🧠 Concepts Covered
+### 🧠 Concepts Covered
 - Printing to the console
 - Receiving user input
 - String concatenation
 - Basic Python syntax
 
-## 📝 Instructions
+### 📝 Instructions
 1. Create a greeting for your program.
 2. Ask the user for the city that they grew up in and store it in a variable.
 3. Ask the user for the name of a pet and store it in a variable.
