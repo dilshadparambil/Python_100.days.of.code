@@ -16,7 +16,7 @@ Welcome to my journey of completing 100 Python projects in 100 days. This challe
 ## 📘 Projects
 
 ### Day 1: Band Name Generator
-A simple project that generates a band name using the city you grew up in and your pet’s name.
+A simple project that generates a band name using the city you grew up in and your pet’s name.  
 [View on GitHub](Project_files/d1.py)
 ## 🧠 Concepts Covered
 - Printing to the console
