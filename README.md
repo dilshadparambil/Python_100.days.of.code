@@ -60,12 +60,13 @@ A simple calculator that helps you split a bill, including tip, among multiple p
 5. Format the result to 2 decimal places for currency.
 
 ### 💡 Example
+```
 If the bill was $150.00, split between 5 people, with 12% tip:<br/>
 (150.00 / 5) * 1.12 = 33.6<br/>
 <br/>
 After formatting:<br/> 
 Each person pays: 33.60<br/>
-
+```
 [🔼 Back to Top](#-table-of-contents)
 
 ---
