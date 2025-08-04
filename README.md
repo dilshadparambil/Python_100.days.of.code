@@ -21,13 +21,13 @@ A simple project that generates a band name using the city you grew up in and yo
 
 📄 [View the code](Project_files/d1.py) [🔼 Back to Top](#-table-of-contents)
 
-### 🧠 Concepts Covered
+#### 🧠 Concepts Covered
 - Printing to the console
 - Receiving user input
 - String concatenation
 - Basic Python syntax
 
-### 📝 Instructions
+#### 📝 Instructions
 1. Create a greeting for your program.
 2. Ask the user for the city that they grew up in and store it in a variable.
 3. Ask the user for the name of a pet and store it in a variable.
@@ -43,7 +43,7 @@ A simple calculator that helps you split a bill, including tip, among multiple p
 
 📄 [View the code](Project_files/d2.py) [🔼 Back to Top](#-table-of-contents)
 
-### 🧠 Concepts Covered
+#### 🧠 Concepts Covered
 - Data types
 - Arithmetic operations
 - Type checking
@@ -51,15 +51,15 @@ A simple calculator that helps you split a bill, including tip, among multiple p
 - Flooring & rounding
 - Formatted strings (f-strings)
 
-### 📝 Instructions
+#### 📝 Instructions
 1. Ask the user for the total bill amount.
 2. Ask for the tip percentage they want to give.
 3. Ask how many people to split the bill between.
 4. Calculate how much each person should pay.
 5. Format the result to 2 decimal places for currency.
 
-### 💡 Example
-```
+#### 💡 Example
+```text
 If the bill was $150.00, split between 5 people, with 12% tip:
 (150.00 / 5) * 1.12 = 33.6
 
