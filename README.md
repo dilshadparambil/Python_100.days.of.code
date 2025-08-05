@@ -6,12 +6,12 @@ Welcome to my journey of completing 100 Python projects in 100 days. This challe
 
 ## 📅 Table of Contents
 
-| Day | Project Title           | Link                                |
-|-----|----------------------   |-------------------------------------|
-| 1   | Band Name Generator     | [Day 1](#day-1-band-name-generator) |
-| 2   | Tip Calculator          | [Day 2](#day-2-tip-calculator)      |
-| 3   | Treasure Island         | [Day 3](#day-3-treasure-island)     |
-| 4   | Rock Paper Scissors     | [Day 4](#day-4-rock-paper-scissors)     |
+| Day | Project Title           | Link                                   |
+|-----|-------------------------|----------------------------------------|
+| 1   | Band Name Generator     | [Day 1](#day-1-band-name-generator)    |
+| 2   | Tip Calculator          | [Day 2](#day-2-tip-calculator)         |
+| 3   | Treasure Island         | [Day 3](#day-3-treasure-island)        |
+| 4   | Rock Paper Scissors     | [Day 4](#day-4-rock-paper-scissors)    |
 
 
 ---
@@ -36,7 +36,6 @@ A simple project that generates a band name using the city you grew up in and yo
 3. Ask the user for the name of a pet and store it in a variable.
 4. Combine the name of their city and pet and show them their band name.
 5. Make sure the input cursor shows on a new line.
-
 
 ---
 
@@ -96,3 +95,7 @@ Using conditional logic and flow control, this text-based game leads the player 
 5. Print game-over or victory messages accordingly.
 
 Use this [flowchart](assets/d3flow.png) to design your adventure game logic
+
+---
+
+### Day 4: Rock Paper Scissors
