@@ -6,12 +6,14 @@ Welcome to my journey of completing 100 Python projects in 100 days. This challe
 
 ## 📅 Table of Contents
 
-| Day | Project Title        | Link                                |
-|-----|----------------------|-------------------------------------|
-| 1   | Band Name Generator  | [Day 1](#day-1-band-name-generator) |
-| 2   | Tip Calculator       | [Day 2](#day-2-tip-calculator)      |
-| 3   | Treasure Island      | [Day 3](#day-3-treasure-island)     |
-| 4   | Rock Paper Scissors       | [Day 4](#day-4-rock-paper-scissors)     |
+| Day | Project Title           | Link                                |
+|-----|----------------------   |-------------------------------------|
+| 1   | Band Name Generator     | [Day 1](#day-1-band-name-generator) |
+| 2   | Tip Calculator          | [Day 2](#day-2-tip-calculator)      |
+| 3   | Treasure Island         | [Day 3](#day-3-treasure-island)     |
+| 4   | Rock Paper Scissors     | [Day 4](#day-4-rock-paper-scissors)     |
+
+
 ---
 
 ## 📘 Projects
