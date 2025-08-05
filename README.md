@@ -93,5 +93,4 @@ Using conditional logic and flow control, this text-based game leads the player 
 4. Use nested conditionals to follow the flowchart logic.
 5. Print game-over or victory messages accordingly.
 
-Use the flowchart below to design your adventure game logic:
-[open](Project_files/d3flow.pdf)
+Use this [flowchart](assets/d3flow.png) to design your adventure game logic
