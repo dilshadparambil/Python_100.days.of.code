@@ -152,9 +152,11 @@ You'll practice combining loops and lists to build both simple and randomized pa
 Generate the password in a fixed order:  
 **Letters → Symbols → Numbers**
 
-Example:  
-Input: 4 letters, 2 symbols, 3 numbers
+💡Example:  
+```
+Input: 4 letters, 2 symbols, 3 numbers  
 Output: fgdx$*924
+```
 
 Characters are grouped together by type.
 
@@ -162,10 +164,11 @@ Characters are grouped together by type.
 Generate the password with **randomized order**:  
 Characters are shuffled so there's **no pattern**.
 
-Example:  
-Input: 4 letters, 2 symbols, 3 numbers
+💡Example:  
+```
+Input: 4 letters, 2 symbols, 3 numbers  
 Output: x$d24g*f9
-
+```
 You will need to:
 - Combine all selected characters into one list  
 - Use `random.shuffle()` to mix them  
