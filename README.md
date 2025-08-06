@@ -12,7 +12,7 @@ Welcome to my journey of completing 100 Python projects in 100 days. This challe
 | 2   | Tip Calculator          | [Day 2](#day-2-tip-calculator)         |
 | 3   | Treasure Island         | [Day 3](#day-3-treasure-island)        |
 | 4   | Rock Paper Scissors     | [Day 4](#day-4-rock-paper-scissors)    |
-| 4   | Password Generator      | [Day 5](#day-5-password-generator)     |
+| 5   | Password Generator      | [Day 5](#day-5-password-generator)     |
 
 
 ---
@@ -172,6 +172,7 @@ Output: x$d24g*f9
 You will need to:
 - Combine all selected characters into one list  
 - Use `random.shuffle()` to mix them  
-- Convert the list to a string
 
+---
 
+### Day 6:
