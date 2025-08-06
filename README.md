@@ -150,10 +150,10 @@ You'll practice combining loops and lists to build both simple and randomized pa
 
 #### 🟢 Easy Version  
 Generate the password in a fixed order:  
-**Letters → Symbols → Numbers**
+`**Letters → Symbols → Numbers**`
 
 💡Example:  
-```
+```text
 Input: 4 letters, 2 symbols, 3 numbers  
 Output: fgdx$*924
 ```
@@ -161,11 +161,11 @@ Output: fgdx$*924
 Characters are grouped together by type.
 
 #### 🔴 Hard Version  
-Generate the password with **randomized order**:  
+Generate the password with `**randomized order**:`  
 Characters are shuffled so there's **no pattern**.
 
 💡Example:  
-```
+```text
 Input: 4 letters, 2 symbols, 3 numbers  
 Output: x$d24g*f9
 ```
