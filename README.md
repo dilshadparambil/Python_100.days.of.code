@@ -161,7 +161,7 @@ Output: fgdx$*924
 Characters are grouped together by type.
 
 #### 🔴 Hard Version  
-Generate the password with `**randomized order**:`  
+Generate the password with **`randomized order`**:  
 Characters are shuffled so there's **no pattern**.
 
 💡Example:  
