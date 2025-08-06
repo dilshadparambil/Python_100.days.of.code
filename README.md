@@ -150,7 +150,7 @@ You'll practice combining loops and lists to build both simple and randomized pa
 
 #### 🟢 Easy Version  
 Generate the password in a fixed order:  
-`**Letters → Symbols → Numbers**`
+**`Letters → Symbols → Numbers`**
 
 💡Example:  
 ```text
