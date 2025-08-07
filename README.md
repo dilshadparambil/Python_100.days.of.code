@@ -236,7 +236,7 @@ You will implement a full-featured Hangman game by following a sequence of devel
 3. Loop through each letter in `chosen_word` and:
    - Print `"Right"` if the guess is correct
    - Print `"Wrong"` otherwise
-4. Create a `display` list with one `_` for each letter in `chosen_word`.  This will represent the user's progress visually.
+4. Create a `display` list with one `_` for each letter in `chosen_word`.<br />This will represent the user's progress visually.
 5. Loop through `chosen_word`. If `guess` matches a letter, update the `display` list at that position.
 6. Use a `while` loop to allow the user to guess repeatedly until there are no `_` characters left in `display`.
 7. Ensure that previous correct guesses are preserved in the `display`.
