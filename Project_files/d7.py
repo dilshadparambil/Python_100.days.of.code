@@ -1,3 +1,6 @@
+#hangman game
+#you need to download d7_words.py,d7_art.py from assets/ in order to run this file
+
 import random
 
 # TODO-1: - Update the word list to use the 'word_list' from hangman_words.py
