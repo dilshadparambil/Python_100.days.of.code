@@ -241,15 +241,15 @@ You will implement a full-featured Hangman game by following a sequence of devel
 6. Use a `while` loop to allow the user to guess repeatedly until there are no `_` characters left in `display`.
 7. Ensure that previous correct guesses are preserved in the `display`.
 8. Create a variable `lives` and set it to 6.
-9. If the guessed letter is **not** in `chosen_word`, subtract 1 from `lives`.  If `lives` reaches 0, the game ends with "You lose."
+9. If the guessed letter is **not** in `chosen_word`, subtract 1 from `lives`.<br />If `lives` reaches 0, the game ends with "You lose."
 10. Print the corresponding ASCII hangman image from the `stages` list based on the current number of lives.
 11. Move your word list into a separate file `d7_words.py` and import it.
 12. Move the `stages` list into `d7_art.py` and import it.
 13. Add a game logo stored in `d7_art.py` and print it at the start of the game.
 14. If the user guesses a letter they've already tried, show a warning and **do not** subtract a life.
-15. If the letter is not in the word, inform the user:  `You guessed d, that's not in the word. You lose a life.`
-16. Add a message to show how many lives are remaining:  `**************************** <???>/6 LIVES LEFT ****************************`
-17. If the user loses, reveal the correct word:  `IT WAS <Correct Word>! YOU LOSE`
+15. If the letter is not in the word, inform the user:<br />`You guessed d, that's not in the word. You lose a life.`
+16. Add a message to show how many lives are remaining:<br />`**************************** <???>/6 LIVES LEFT ****************************`
+17. If the user loses, reveal the correct word:<br />`IT WAS <Correct Word>! YOU LOSE`
 
 💡 **Bonus Tips**:  
 - Break your code into functions as it grows.  
