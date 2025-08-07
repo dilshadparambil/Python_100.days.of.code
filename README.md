@@ -207,7 +207,8 @@ Your task is to write a program that helps Reeborg find the exit by following th
 3. You'll need to define a custom `turn_right()` function (Reeborg only supports `turn_left()`).
 4. Use a `while` loop to repeatedly evaluate Reeborg’s surroundings and make decisions.
 
-💡 Tip: This is a classic right-wall-following algorithm. The logic mimics placing your hand on the right wall and walking through the maze.
+💡 **Bonus Tips**:  
+This is a classic right-wall-following algorithm. The logic mimics placing your hand on the right wall and walking through the maze.
 
 ---
 
@@ -255,4 +256,7 @@ You will implement a full-featured Hangman game by following a sequence of devel
 - Break your code into functions as it grows.  
 - You can enhance the game with difficulty settings or replayability.
 
+---
+
+### Day 8: 
 
