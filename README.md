@@ -13,7 +13,7 @@ Welcome to my journey of completing 100 Python projects in 100 days. This challe
 | 3   | Treasure Island         | [Day 3](#day-3-treasure-island)        |
 | 4   | Rock Paper Scissors     | [Day 4](#day-4-rock-paper-scissors)    |
 | 5   | Password Generator      | [Day 5](#day-5-password-generator)     |
-| 6   | Reeborg's World Maze    | [Day 6](#day-6-reeborgs-world-maze)    |
+| 6   | Reeborg's World Maze    | [Day 6](#day-6-reeborgs-world---maze)    |
 
 
 ---
