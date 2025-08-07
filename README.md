@@ -14,6 +14,8 @@ Welcome to my journey of completing 100 Python projects in 100 days. This challe
 | 4   | Rock Paper Scissors     | [Day 4](#day-4-rock-paper-scissors)    |
 | 5   | Password Generator      | [Day 5](#day-5-password-generator)     |
 | 6   | Reeborg's World: Maze   | [Day 6](#day-6-reeborgs-world-maze)    |
+| 7   | Hangman                 | [Day 7](#day-6-hangman)                |
+
 
 
 ---
@@ -181,7 +183,7 @@ Reeborg is lost in a maze!
 Your task is to write a program that helps Reeborg find the exit by following the **right-hand rule** (always follow the wall on your right).  
 🌐 [Try it on Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)  
 
-📄 [View the code](Project_files/d5_maze.py) [🔼 Back to Top](#-table-of-contents)  
+📄 [View the code](Project_files/d6.py) [🔼 Back to Top](#-table-of-contents)  
 
 #### 🧠 Concepts Covered
 - `while` loops and conditionals  
@@ -209,4 +211,86 @@ Your task is to write a program that helps Reeborg find the exit by following th
 
 ---
 
-### Day 7:
+### Day 7: Hangman  
+A classic word-guessing game where the user has to guess the letters of a hidden word before running out of lives.  
+You'll build this project step by step, using loops, conditionals, and functions while improving modular thinking.
+
+📄 [View the code](Project_files/d7.py)[🔼 Back to Top](#-table-of-contents)
+
+#### 🧠 Concepts Covered
+- `while` and `for` loops  
+- Conditional logic  
+- String manipulation  
+- Lists and indices  
+- Importing from other Python files  
+- ASCII art  
+- User input and validation  
+- Game state tracking (win/lose conditions)
+
+#### 📝 Instructions
+
+You will implement a full-featured Hangman game by following a sequence of development steps:
+
+##### ✅ TODO-1:  
+Randomly choose a word from a predefined `word_list` and store it in `chosen_word`. Print it for testing.
+
+##### ✅ TODO-2:  
+Ask the user to guess a letter and convert the input to lowercase. Store it in the variable `guess`.
+
+##### ✅ TODO-3:  
+Loop through each letter in `chosen_word` and:
+- Print `"Right"` if the guess is correct
+- Print `"Wrong"` otherwise
+
+##### ✅ TODO-4:  
+Create a `display` list with one `_` for each letter in `chosen_word`.  
+This will represent the user's progress visually.
+
+##### ✅ TODO-5:  
+Loop through `chosen_word`. If `guess` matches a letter, update the `display` list at that position.
+
+##### ✅ TODO-6:  
+Use a `while` loop to allow the user to guess repeatedly until there are no `_` characters left in `display`.
+
+##### ✅ TODO-7:  
+Ensure that previous correct guesses are preserved in the `display`.
+
+##### ✅ TODO-8:  
+Create a variable `lives` and set it to 6.
+
+##### ✅ TODO-9:  
+If the guessed letter is **not** in `chosen_word`, subtract 1 from `lives`.  
+If `lives` reaches 0, the game ends with "You lose."
+
+##### ✅ TODO-10:  
+Print the corresponding ASCII hangman image from the `stages` list based on the current number of lives.
+
+##### ✅ TODO-11:  
+Move your word list into a separate file `hangman_words.py` and import it.
+
+##### ✅ TODO-12:  
+Move the `stages` list into `hangman_art.py` and import it.
+
+##### ✅ TODO-13:  
+Add a game logo stored in `hangman_art.py` and print it at the start of the game.
+
+##### ✅ TODO-14:  
+If the user guesses a letter they've already tried, show a warning and **do not** subtract a life.
+
+##### ✅ TODO-15:  
+If the letter is not in the word, inform the user:  
+`You guessed d, that's not in the word. You lose a life.`
+
+##### ✅ TODO-16:  
+Add a message to show how many lives are remaining:
+`**************************** <???>/6 LIVES LEFT ****************************`
+
+##### ✅ TODO-17:  
+If the user loses, reveal the correct word:
+`IT WAS <Correct Word>! YOU LOSE`
+
+💡 **Bonus Tips**:  
+- Break your code into functions as it grows.  
+- You can enhance the game with difficulty settings or replayability.
+
+
