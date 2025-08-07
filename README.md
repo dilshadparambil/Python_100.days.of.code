@@ -14,7 +14,7 @@ Welcome to my journey of completing 100 Python projects in 100 days. This challe
 | 4   | Rock Paper Scissors     | [Day 4](#day-4-rock-paper-scissors)    |
 | 5   | Password Generator      | [Day 5](#day-5-password-generator)     |
 | 6   | Reeborg's World: Maze   | [Day 6](#day-6-reeborgs-world-maze)    |
-| 7   | Hangman                 | [Day 7](#day-6-hangman)                |
+| 7   | Hangman                 | [Day 7](#day-7-hangman)                |
 
 
 
@@ -215,7 +215,7 @@ Your task is to write a program that helps Reeborg find the exit by following th
 A classic word-guessing game where the user has to guess the letters of a hidden word before running out of lives.  
 You'll build this project step by step, using loops, conditionals, and functions while improving modular thinking.
 
-📄 [View the code](Project_files/d7.py)[🔼 Back to Top](#-table-of-contents)
+📄 [View the code](Project_files/d7.py) [🔼 Back to Top](#-table-of-contents)
 
 #### 🧠 Concepts Covered
 - `while` and `for` loops  
@@ -231,11 +231,8 @@ You'll build this project step by step, using loops, conditionals, and functions
 
 You will implement a full-featured Hangman game by following a sequence of development steps:
 
-##### ✅ TODO-1:  
-Randomly choose a word from a predefined `word_list` and store it in `chosen_word`. Print it for testing.
-
-##### ✅ TODO-2:  
-Ask the user to guess a letter and convert the input to lowercase. Store it in the variable `guess`.
+1. Randomly choose a word from a predefined `word_list` and store it in `chosen_word`. Print it for testing.
+2. Ask the user to guess a letter and convert the input to lowercase. Store it in the variable `guess`.
 
 ##### ✅ TODO-3:  
 Loop through each letter in `chosen_word` and:
@@ -282,7 +279,7 @@ If the letter is not in the word, inform the user:
 `You guessed d, that's not in the word. You lose a life.`
 
 ##### ✅ TODO-16:  
-Add a message to show how many lives are remaining:
+Add a message to show how many lives are remaining:  
 `**************************** <???>/6 LIVES LEFT ****************************`
 
 ##### ✅ TODO-17:  
