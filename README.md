@@ -208,7 +208,9 @@ Your task is to write a program that helps Reeborg find the exit by following th
 4. Use a `while` loop to repeatedly evaluate Reeborg’s surroundings and make decisions.
 
 💡 **Bonus Tips**:  
-This is a classic right-wall-following algorithm. The logic mimics placing your hand on the right wall and walking through the maze.
+  
+- This is a classic right-wall-following algorithm.
+- The logic mimics placing your hand on the right wall and walking through the maze.
 
 ---
 
@@ -253,6 +255,7 @@ You will implement a full-featured Hangman game by following a sequence of devel
 17. If the user loses, reveal the correct word:<br />`IT WAS <Correct Word>! YOU LOSE`
 
 💡 **Bonus Tips**:  
+  
 - Break your code into functions as it grows.  
 - You can enhance the game with difficulty settings or replayability.
 
