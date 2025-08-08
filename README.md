@@ -255,6 +255,8 @@ You will implement a full-featured Hangman game by following a sequence of devel
 16. Add a message to show how many lives are remaining:<br />`**************************** <???>/6 LIVES LEFT ****************************`
 17. If the user loses, reveal the correct word:<br />`IT WAS <Correct Word>! YOU LOSE`
 
+Use this [flowchart](assets/d3flow.png) to design your Hangman
+
 💡 **Bonus Tips**:  
   
 - Break your code into functions as it grows.  
