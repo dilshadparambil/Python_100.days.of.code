@@ -15,7 +15,7 @@ Welcome to my journey of completing 100 Python projects in 100 days. This challe
 | 5   | Password Generator      | [Day 5](#day-5-password-generator)     |
 | 6   | Reeborg's World: Maze   | [Day 6](#day-6-reeborgs-world-maze)    |
 | 7   | Hangman                 | [Day 7](#day-7-hangman)                |
-| 8   | Caesar Cipher           | [Day 8](#day-7-Caesar-Cipher)          |
+| 8   | Caesar Cipher           | [Day 8](#day-7-caesar-cipher)          |
 
 
 
