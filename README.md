@@ -8,13 +8,13 @@ Welcome to my journey of completing 100 Python projects in 100 days. This challe
 
 | Day | Project Title           | Link                                   |
 |-----|-------------------------|----------------------------------------|
-| 1   | Band Name Generator     | [Day 1](#day-1-band-name-generator)    |
-| 2   | Tip Calculator          | [Day 2](#day-2-tip-calculator)         |
-| 3   | Treasure Island         | [Day 3](#day-3-treasure-island)        |
-| 4   | Rock Paper Scissors     | [Day 4](#day-4-rock-paper-scissors)    |
-| 5   | Password Generator      | [Day 5](#day-5-password-generator)     |
-| 6   | Reeborg's World: Maze   | [Day 6](#day-6-reeborgs-world-maze)    |
-| 7   | Hangman                 | [Day 7](#day-7-hangman)                |
+| 1   | Band Name Generator     | [Day 1](#day-1-Band-Name-Generator)    |
+| 2   | Tip Calculator          | [Day 2](#day-2-Tip-Calculator)         |
+| 3   | Treasure Island         | [Day 3](#day-3-Treasure-Island)        |
+| 4   | Rock Paper Scissors     | [Day 4](#day-4-Rock-Paper-Scissors)    |
+| 5   | Password Generator      | [Day 5](#day-5-Password-Generator)     |
+| 6   | Reeborg's World: Maze   | [Day 6](#day-6-Reeborgs-World-Maze)    |
+| 7   | Hangman                 | [Day 7](#day-7-Hangman)                |
 | 8   | Caesar Cipher           | [Day 8](#day-8-Caesar-Cipher)          |
 
 
