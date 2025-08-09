@@ -16,7 +16,7 @@ Welcome to my journey of completing 100 Python projects in 100 days. This challe
 | 6   | Reeborg's World: Maze   | [Day 6](#day-6-Reeborgs-World-Maze)    |
 | 7   | Hangman                 | [Day 7](#day-7-Hangman)                |
 | 8   | Caesar Cipher           | [Day 8](#day-8-Caesar-Cipher)          |
-| 9   | Calculator              | [Day 9](#day-9-Calculator)             |
+| 9   | Blind Auction           | [Day 9](#day-9-Blind-Auction)          |
 
 
 
@@ -324,7 +324,7 @@ This project introduces function inputs, parameter handling, and simple text tra
 
 ---
 
-### Day 9: Blind Auction Calculator  
+### Day 9: Blind Auction   
 A program to run a **blind auction**, where participants enter their names and bids privately.  
 The program determines the highest bidder without revealing intermediate bids.
 
