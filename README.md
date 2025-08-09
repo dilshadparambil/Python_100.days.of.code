@@ -388,23 +388,23 @@ This project introduces **functions with outputs**, function references in dicti
    - `divide(n1, n2)`
 
 2. **Create an operations dictionary**:
-```python
-operations = {
-    "+": add,
-    "-": subtract,
-    "*": multiply,
-    "/": divide
-}
-```
+   ```python
+   operations = {
+       "+": add,
+       "-": subtract,
+       "*": multiply,
+       "/": divide
+   }
+   ```
 
 3. **Basic program flow**:
    - Ask the user for the **first number**.
    - Ask the user to choose an **operator** (`+`, `-`, `*`, `/`).
    - Ask for the **second number**.
    - Perform the calculation using the operations dictionary:
-```python
-result = operations["*"](n1=4, n2=8)
-```
+   ```python
+   result = operations["*"](n1=4, n2=8)
+   ```
    - Display the result.
 
 4. **Chaining calculations**:
@@ -416,9 +416,9 @@ result = operations["*"](n1=4, n2=8)
    - Import and display the ASCII art logo from `art.py` at the start.
 
 💡 **Hints**:
-- Use `float()` to handle decimal inputs.
-- Recursive function calls can restart the calculator cleanly without a `while` loop.
-- Write **docstrings** for each function to explain its purpose.
+   - Use `float()` to handle decimal inputs.
+   - Recursive function calls can restart the calculator cleanly without a `while` loop.
+   - Write **docstrings** for each function to explain its purpose.
 
 ---
 
