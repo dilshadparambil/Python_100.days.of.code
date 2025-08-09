@@ -362,6 +362,8 @@ The program determines the highest bidder without revealing intermediate bids.
    - Draw a flowchart to visualize the program’s logic before coding.
    - Convert all bid inputs to integers for correct comparison:
 
+Use this [flowchart](assets/d9flow.png) to design your Blind Auction
+
 ---
 
 
