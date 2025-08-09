@@ -17,6 +17,8 @@ Welcome to my journey of completing 100 Python projects in 100 days. This challe
 | 7   | Hangman                 | [Day 7](#day-7-Hangman)                |
 | 8   | Caesar Cipher           | [Day 8](#day-8-Caesar-Cipher)          |
 | 9   | Blind Auction           | [Day 9](#day-9-Blind-Auction)          |
+| 10  | Calculator              | [Day 10](#day-10-Calculator)           |
+
 
 
 
