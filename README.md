@@ -358,11 +358,11 @@ The program determines the highest bidder without revealing intermediate bids.
    - Privacy: Ensure no previous bids are visible when the next participant enters their bid.
    - Flow: Continue looping until no more bids are to be entered.
 
+Use this [flowchart](assets/d9flow.png) to design your Blind Auction
+
 **💡 Hints:**
    - Draw a flowchart to visualize the program’s logic before coding.
    - Convert all bid inputs to integers for correct comparison:
-
-Use this [flowchart](assets/d9flow.png) to design your Blind Auction
 
 ---
 
