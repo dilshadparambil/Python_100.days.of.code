@@ -2,7 +2,7 @@
 A classic word-guessing game where the user has to guess the letters of a hidden word before running out of lives.  
 You'll build this project step by step, using loops, conditionals, and functions while improving modular thinking.
 
-📄 [View the code](Project_files/d07/solution.py) [🔼 Back to Top](#-table-of-contents)
+📄 [View the code](solution.py)
 
 #### 🧠 Concepts Covered
 - `while` and `for` loops  
@@ -38,7 +38,7 @@ You will implement a full-featured Hangman game by following a sequence of devel
 16. Add a message to show how many lives are remaining:<br />`**************************** <???>/6 LIVES LEFT ****************************`
 17. If the user loses, reveal the correct word:<br />`IT WAS <Correct Word>! YOU LOSE`
 
-Use this [flowchart](Project_files/d07/d7flow.png) to design your Hangman
+Use this [flowchart](d7flow.png) to design your Hangman
 
 💡 **Bonus Tips**:  
   

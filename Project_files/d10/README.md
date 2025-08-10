@@ -2,7 +2,7 @@
 A simple interactive calculator that can perform addition, subtraction, multiplication, and division.  
 This project introduces **functions with outputs**, function references in dictionaries, and recursive program flow.
 
-📄 [View the code](Project_files/d10/solution.py) [🔼 Back to Top](#-table-of-contents)
+📄 [View the code](solution.py)
 
 #### 🧠 Concepts Covered
 - Functions with outputs (`return`)  

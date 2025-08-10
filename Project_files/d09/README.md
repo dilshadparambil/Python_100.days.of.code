@@ -2,7 +2,7 @@
 A program to run a **blind auction**, where participants enter their names and bids privately.  
 The program determines the highest bidder without revealing intermediate bids.
 
-📄 [View the code](Project_files/d09/solution.py) [🔼 Back to Top](#-table-of-contents)
+📄 [View the code](solution.py)
 
 #### 🧠 Concepts Covered
 - Dictionaries (`{key: value}`)  
@@ -32,7 +32,7 @@ The program determines the highest bidder without revealing intermediate bids.
    - Privacy: Ensure no previous bids are visible when the next participant enters their bid.
    - Flow: Continue looping until no more bids are to be entered.
 
-Use this [flowchart](Project_files/d09/solution.py) to design your Blind Auction
+Use this [flowchart](d9flow.png) to design your Blind Auction
 
 **💡 Hints:**
    - Draw a flowchart to visualize the program’s logic before coding.

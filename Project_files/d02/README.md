@@ -2,7 +2,7 @@
 
 A simple calculator that helps you split a bill, including tip, among multiple people.
 
-📄 [View the code](Project_files/d02/solution.py) [🔼 Back to Top](#-table-of-contents)
+📄 [View the code](solution.py)
 
 #### 🧠 Concepts Covered
 - Data types
