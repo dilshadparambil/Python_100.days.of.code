@@ -52,7 +52,7 @@ Follow the house rules, apply game logic, and make strategic decisions to win.
 
 💡 **Hints**:
 - [Requirement Breakdown](d11req.png)  
-- [Flowchart Download]()  
+- [Flowchart Download](d11flow.png)  
 - Use `random.choice()` for card selection.  
 - Keep checking scores after each draw until the game ends.
 

@@ -18,6 +18,8 @@ Welcome to my journey of completing 100 Python projects in 100 days. This challe
 | 8   | Caesar Cipher           | [Day 08](Project_files/d08/README.md)  |
 | 9   | Blind Auction           | [Day 09](Project_files/d09/README.md)  |
 | 10  | Calculator              | [Day 10](Project_files/d10/README.md)  |
+| 11  | Blackjack               | [Day 11](Project_files/d11/README.md)  |
+
 
 
 
