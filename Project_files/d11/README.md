@@ -3,7 +3,7 @@
 A text-based Blackjack game where you play against the computer dealer.  
 Follow the house rules, apply game logic, and make strategic decisions to win.
 
-📄 [View the code](solution.py)  
+📄 [View Solution](solution.py) 📄 [View My code](d11.py)  
 🔗 [🃏 Try Blackjack Online](https://games.washingtonpost.com/games/blackjack/)
 
 #### 🧠 Concepts Covered

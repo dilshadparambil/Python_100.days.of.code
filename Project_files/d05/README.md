@@ -2,7 +2,7 @@
 This program generates a secure password based on user preferences for letters, symbols, and numbers.  
 You'll practice combining loops and lists to build both simple and randomized password generators.
 
-📄 [View the code](solution.py)
+📄 [View Solution](solution.py) 📄 [View My code](d5.py)  
 
 #### 🧠 Concepts Covered
 - `for` loops and `range()`  

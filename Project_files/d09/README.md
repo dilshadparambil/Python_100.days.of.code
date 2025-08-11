@@ -2,7 +2,7 @@
 A program to run a **blind auction**, where participants enter their names and bids privately.  
 The program determines the highest bidder without revealing intermediate bids.
 
-📄 [View the code](solution.py)
+📄 [View Solution](solution.py) 📄 [View My code](d9.py)  
 
 #### 🧠 Concepts Covered
 - Dictionaries (`{key: value}`)  

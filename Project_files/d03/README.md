@@ -3,7 +3,7 @@
 Your goal today is to build a "Choose Your Own Adventure" game.  
 Using conditional logic and flow control, this text-based game leads the player on a short adventure to find a hidden treasure.
 
-📄 [View the code](solution.py)
+📄 [View Solution](solution.py) 📄 [View My code](d3.py)  
 
 #### 🧠 Concepts Covered
 - Conditional statements (`if`, `elif`, `else`)  

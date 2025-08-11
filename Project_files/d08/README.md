@@ -2,7 +2,7 @@
 Build your own text encryption and decryption tool using Caesar Cipher logic!  
 This project introduces function inputs, parameter handling, and simple text transformations.
 
-📄 [View the code](solution.py)
+📄 [View Solution](solution.py) 📄 [View My code](d8.py)  
 
 #### 🧠 Concepts Covered
 - Functions with inputs  

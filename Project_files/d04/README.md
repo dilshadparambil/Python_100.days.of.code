@@ -3,7 +3,7 @@
 You are going to build a Rock, Paper, Scissors game.  
 You will use randomisation and lists to simulate the classic hand game between the user and the computer.
 
-📄 [View the code](solution.py)
+📄 [View Solution](solution.py) 📄 [View My code](d4.py)  
 
 #### 🧠 Concepts Covered
 - Python modules  

@@ -2,7 +2,7 @@
 
 A simple project that generates a band name using the city you grew up in and your pet’s name.
 
-📄 [View the code](solution.py)
+📄 [View Solution](solution.py) 📄 [View My code](d1.py)  
 
 #### 🧠 Concepts Covered
 - Printing to the console
