@@ -1,4 +1,3 @@
-```markdown
 ### Day 11: Blackjack  
 A text-based Blackjack game where you play against the computer dealer.  
 Follow the house rules, apply game logic, and make strategic decisions to win.
@@ -57,4 +56,4 @@ Follow the house rules, apply game logic, and make strategic decisions to win.
 - Keep checking scores after each draw until the game ends.
 
 ---
-```
+
