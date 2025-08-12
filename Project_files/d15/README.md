@@ -2,7 +2,7 @@
 A simulation of a coffee vending machine that can serve espresso, latte, and cappuccino.  
 The program manages resources, processes coins, and handles transactions.
 
-📄 [View the code](solution.py)  
+📄 [View Solution](solution.py) 📄 [View My code](d15.py)  
 
 #### 🧠 Concepts Covered
 - Dictionaries for storing menu items and resources  

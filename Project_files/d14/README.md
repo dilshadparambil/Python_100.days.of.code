@@ -2,7 +2,7 @@
 A comparison game where the player guesses which Instagram account has more followers.  
 Based on the classic [Higher Lower Game](https://www.higherlowergame.com/), but using a custom dataset.
 
-📄 [View the code](solution.py)  
+📄 [View Solution](solution.py) 📄 [View My code](d14.py)  
 
 #### 🧠 Concepts Covered
 - Random selection from a list of dictionaries  
