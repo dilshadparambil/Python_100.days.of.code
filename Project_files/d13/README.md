@@ -1,10 +1,10 @@
-### Day 15: Debugging Exercises  
+### Day 13: Debugging Exercises  
 A series of debugging challenges to identify and fix logical and syntax errors in given Python code.  
 The day is divided into three separate problems, each focusing on fixing an existing buggy program.
 
-📄 [View Odd or Even Question](d13a.py) [Solution](d13a_sol.py)  
-📄 [View Leap Year Question](d13b.py) [Solution](d13b_sol.py) 
-📄 [View FizzBuzz Question](d13c.py) [Solution](d13c_sol.py)   
+📄 [View Odd or Even Question](d13a.py), [Solution](d13a_sol.py)  
+📄 [View Leap Year Question](d13b.py), [Solution](d13b_sol.py)  
+📄 [View FizzBuzz Question](d13c.py), [Solution](d13c_sol.py)   
 
 #### 🧠 Concepts Covered
 - Debugging techniques  
