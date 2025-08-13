@@ -1,10 +1,10 @@
-### Day 14: Higher Lower Game  
+## Day 14: Higher Lower Game  
 A comparison game where the player guesses which Instagram account has more followers.  
 Based on the classic [Higher Lower Game](https://www.higherlowergame.com/), but using a custom dataset.
 
 📄 [View Solution](solution.py) 📄 [View My code](d14.py)  
 
-#### 🧠 Concepts Covered
+### 🧠 Concepts Covered
 - Random selection from a list of dictionaries  
 - Functions with inputs and outputs  
 - Loops for repeatable gameplay  
@@ -12,7 +12,7 @@ Based on the classic [Higher Lower Game](https://www.higherlowergame.com/), but 
 - Score tracking  
 - Clearing the console output
 
-#### 📝 Instructions
+### 📝 Instructions
 1. **Display ASCII art** from `art.py` at the start of the game.  
 2. **Randomly generate two accounts** from the game data file (`game_data.py`).  
 3. **Show formatted account details** (name, description, country) to the player without revealing follower counts.  

@@ -1,17 +1,17 @@
-### Day 10: Calculator  
+## Day 10: Calculator  
 A simple interactive calculator that can perform addition, subtraction, multiplication, and division.  
 This project introduces **functions with outputs**, function references in dictionaries, and recursive program flow.
 
 📄 [View Solution](solution.py) 📄 [View My code](d10.py)  
 
-#### 🧠 Concepts Covered
+### 🧠 Concepts Covered
 - Functions with outputs (`return`)  
 - Storing functions as dictionary values  
 - Using dictionary keys to trigger operations  
 - Recursion for program restarts  
 - Docstrings for function documentation
 
-#### 📝 Instructions
+### 📝 Instructions
 
 1. **Write the core math functions**:
    - `add(n1, n2)`

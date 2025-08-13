@@ -1,10 +1,10 @@
-### Day 7: Hangman  
+## Day 7: Hangman  
 A classic word-guessing game where the user has to guess the letters of a hidden word before running out of lives.  
 You'll build this project step by step, using loops, conditionals, and functions while improving modular thinking.
 
 📄 [View Solution](solution.py) 📄 [View My code](d7.py)  
 
-#### 🧠 Concepts Covered
+### 🧠 Concepts Covered
 - `while` and `for` loops  
 - Conditional logic  
 - String manipulation  
@@ -14,7 +14,7 @@ You'll build this project step by step, using loops, conditionals, and functions
 - User input and validation  
 - Game state tracking (win/lose conditions)
 
-#### 📝 Instructions
+### 📝 Instructions
 
 You will implement a full-featured Hangman game by following a sequence of development steps:
 

@@ -1,17 +1,17 @@
-### Day 9: Blind Auction   
+## Day 9: Blind Auction   
 A program to run a **blind auction**, where participants enter their names and bids privately.  
 The program determines the highest bidder without revealing intermediate bids.
 
 📄 [View Solution](solution.py) 📄 [View My code](d9.py)  
 
-#### 🧠 Concepts Covered
+### 🧠 Concepts Covered
 - Dictionaries (`{key: value}`)  
 - Nesting data inside structures  
 - Loops for repeated user input  
 - Clearing output to maintain bid privacy  
 - Converting strings to integers (`int()`)
 
-#### 📝 Instructions
+### 📝 Instructions
 1. Ask each participant for:
    - **Name**
    - **Bid amount**

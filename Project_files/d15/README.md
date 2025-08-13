@@ -1,10 +1,10 @@
-### Day 15: Coffee Machine Project  
+## Day 15: Coffee Machine Project  
 A simulation of a coffee vending machine that can serve espresso, latte, and cappuccino.  
 The program manages resources, processes coins, and handles transactions.
 
 📄 [View Solution](solution.py) 📄 [View My code](d15.py)  
 
-#### 🧠 Concepts Covered
+### 🧠 Concepts Covered
 - Dictionaries for storing menu items and resources  
 - Functions for modular code (report generation, resource check, transaction check, coffee making)  
 - Loops for continuous operation until turned off  
@@ -12,7 +12,7 @@ The program manages resources, processes coins, and handles transactions.
 - Floating-point calculations for money handling  
 - Rounding for change calculations
 
-#### 📝 Instructions
+### 📝 Instructions
 
 1. **Prompt user**:  
    - Ask: `"What would you like? (espresso/latte/cappuccino):"`  

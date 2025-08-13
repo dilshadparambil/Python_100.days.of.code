@@ -1,4 +1,4 @@
-### Day 13: Debugging Exercises  
+## Day 13: Debugging Exercises  
 A series of debugging challenges to identify and fix logical and syntax errors in given Python code.  
 The day is divided into three separate problems, each focusing on fixing an existing buggy program.
 
@@ -6,7 +6,7 @@ The day is divided into three separate problems, each focusing on fixing an exis
 📄 [View Leap Year Question](d13b.py), [Solution](d13b_sol.py)  
 📄 [View FizzBuzz Question](d13c.py), [Solution](d13c_sol.py)   
 
-#### 🧠 Concepts Covered
+### 🧠 Concepts Covered
 - Debugging techniques  
 - Logical error identification and correction  
 - Conditional statements (`if / elif / else`)  
@@ -14,16 +14,16 @@ The day is divided into three separate problems, each focusing on fixing an exis
 - Iteration with loops (`for` loops)  
 - Testing code to ensure correctness
 
-#### 📝 Instructions
+### 📝 Instructions
 
-##### 1️⃣ Debugging Odd or Even
+#### 1️⃣ Debugging Odd or Even
 - **Goal**: Read the given code and identify issues.  
 - Fix the logic so that:
   - If the number is divisible by 2 → print `"This is an even number."`
   - Otherwise → print `"This is an odd number."`  
 - Ensure the program runs without errors and passes all tests.
 
-##### 2️⃣ Debugging Leap Year
+#### 2️⃣ Debugging Leap Year
 - **Goal**: Identify and fix the issues in determining whether a year is a leap year.  
 - **Correct leap year logic**:
   1. A year is a leap year if it is divisible by 4 **and** not divisible by 100.  
@@ -33,7 +33,7 @@ The day is divided into three separate problems, each focusing on fixing an exis
   - 1900 → Not Leap Year ❌  
   - 1996 → Leap Year ✅  
 
-##### 3️⃣ Debugging FizzBuzz
+#### 3️⃣ Debugging FizzBuzz
 - **Goal**: Correct the logic to produce the proper FizzBuzz output.  
 - Rules:
   - Print `"Fizz"` if the number is divisible by 3.  

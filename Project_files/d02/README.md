@@ -1,10 +1,10 @@
-### Day 2: Tip Calculator
+## Day 2: Tip Calculator
 
 A simple calculator that helps you split a bill, including tip, among multiple people.
 
 📄 [View Solution](solution.py) 📄 [View My code](d2.py)  
 
-#### 🧠 Concepts Covered
+### 🧠 Concepts Covered
 - Data types
 - Arithmetic operations
 - Type checking
@@ -12,14 +12,14 @@ A simple calculator that helps you split a bill, including tip, among multiple p
 - Flooring & rounding
 - Formatted strings (f-strings)
 
-#### 📝 Instructions
+### 📝 Instructions
 1. Ask the user for the total bill amount.
 2. Ask for the tip percentage they want to give.
 3. Ask how many people to split the bill between.
 4. Calculate how much each person should pay.
 5. Format the result to 2 decimal places for currency.
 
-#### 💡 Example
+### 💡 Example
 ```text
 If the bill was $150.00, split between 5 people, with 12% tip:
 (150.00 / 5) * 1.12 = 33.6

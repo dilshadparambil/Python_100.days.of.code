@@ -1,10 +1,10 @@
-### Day 12: Number Guessing Game  
+## Day 12: Number Guessing Game  
 A simple number guessing game where the player tries to guess a randomly chosen number between 1 and 100.  
 The game adjusts difficulty levels and tracks the number of remaining attempts.
 
 📄 [View Solution](solution.py) 📄 [View My code](d12.py)    
 
-#### 🧠 Concepts Covered
+### 🧠 Concepts Covered
 - Functions with inputs and outputs  
 - Conditional logic (`if / elif / else`)  
 - Random number generation (`random.randint()`)  
@@ -12,7 +12,7 @@ The game adjusts difficulty levels and tracks the number of remaining attempts.
 - Loops for repeated guessing  
 - Difficulty settings
 
-#### 📝 Instructions
+### 📝 Instructions
 1. **Function to check the guess**:
    - Compare the user’s guess to the actual answer.  
    - Print feedback: `"Too high"`, `"Too low"`, or `"Correct"`.  

@@ -1,10 +1,10 @@
-### Day 16: Coffee Machine Project (OOP Version)  
+## Day 16: Coffee Machine Project (OOP Version)  
 An object-oriented simulation of a coffee vending machine that can serve espresso, latte, and cappuccino.  
 This version uses **classes** to manage menu items, resources, and transactions.
 
 📄 [View Solution](solution.py) 📄 [View My code](d16.py)  
 
-#### 🧠 Concepts Covered
+### 🧠 Concepts Covered
 - Object-Oriented Programming (OOP)  
 - Classes and objects  
 - Methods and attributes  
@@ -13,7 +13,7 @@ This version uses **classes** to manage menu items, resources, and transactions.
 - Conditional logic for handling transactions and availability  
 - Floating-point arithmetic for currency calculations
 
-#### 📝 Instructions
+### 📝 Instructions
 
 1. **Prompt user**  
    - Ask: `"What would you like? (espresso/latte/cappuccino):"`  
@@ -48,32 +48,30 @@ This version uses **classes** to manage menu items, resources, and transactions.
 7. **Make coffee**  
    - Deduct required ingredients from resources.  
    - Print: `"Here is your <drink>. Enjoy!"`
+   
+### 📦 Classes Overview
 
----
+1. **`MenuItem` Class**  
+   - **Attributes**:  
+      - `name` (str) → Name of drink (e.g., `"latte"`)  
+      - `cost` (float) → Price of drink (e.g., `1.5`)  
+      - `ingredients` (dict) → Required ingredients (e.g., `{"water": 100, "coffee": 16}`)  
 
-#### 📦 Classes Overview
+2. **`Menu` Class**  
+   - **Methods**:  
+      - `get_items()` → Returns all menu item names as a string (e.g., `"latte/espresso/cappuccino"`)  
+      - `find_drink(order_name)` → Returns `MenuItem` object if found, else `None`.
 
-**`MenuItem` Class**  
-- **Attributes**:  
-  - `name` (str) → Name of drink (e.g., `"latte"`)  
-  - `cost` (float) → Price of drink (e.g., `1.5`)  
-  - `ingredients` (dict) → Required ingredients (e.g., `{"water": 100, "coffee": 16}`)  
+4. **`CoffeeMaker` Class**  
+   - **Methods**:  
+      - `report()` → Prints resource levels.  
+      - `is_resource_sufficient(drink)` → Checks if enough resources for given `MenuItem`.  
+      - `make_coffee(order)` → Deducts ingredients for given `MenuItem`.
 
-**`Menu` Class**  
-- **Methods**:  
-  - `get_items()` → Returns all menu item names as a string (e.g., `"latte/espresso/cappuccino"`)  
-  - `find_drink(order_name)` → Returns `MenuItem` object if found, else `None`.
-
-**`CoffeeMaker` Class**  
-- **Methods**:  
-  - `report()` → Prints resource levels.  
-  - `is_resource_sufficient(drink)` → Checks if enough resources for given `MenuItem`.  
-  - `make_coffee(order)` → Deducts ingredients for given `MenuItem`.
-
-**`MoneyMachine` Class**  
-- **Methods**:  
-  - `report()` → Prints current profit.  
-  - `make_payment(cost)` → Processes coin input and returns `True` if payment successful, else `False`.
+5. **`MoneyMachine` Class**  
+   - **Methods**:  
+      - `report()` → Prints current profit.  
+      - `make_payment(cost)` → Processes coin input and returns `True` if payment successful, else `False`.
 
 💡 **Extra Challenge**:
 - Add an "admin mode" for refilling resources.  

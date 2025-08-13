@@ -1,11 +1,11 @@
-### Day 11: Blackjack  
+## Day 11: Blackjack  
 A text-based Blackjack game where you play against the computer dealer.  
 Follow the house rules, apply game logic, and make strategic decisions to win.
 
 📄 [View Solution](solution.py) 📄 [View My code](d11.py)  
 🔗 [🃏 Try Blackjack Online](https://games.washingtonpost.com/games/blackjack/)
 
-#### 🧠 Concepts Covered
+### 🧠 Concepts Covered
 - Functions with inputs and outputs  
 - Lists and list methods (`append()`, `remove()`)  
 - Conditional statements  
@@ -13,7 +13,7 @@ Follow the house rules, apply game logic, and make strategic decisions to win.
 - Importing and using ASCII art (`art.py`)  
 - Comparing game results with a `compare()` function
 
-#### 📝 House Rules
+### 📝 House Rules
 - The deck is unlimited in size.  
 - No jokers are included.  
 - Jack/Queen/King count as **10**.  
@@ -25,7 +25,7 @@ Follow the house rules, apply game logic, and make strategic decisions to win.
 - Cards are not removed after being drawn.  
 - Computer acts as the dealer.  
 
-#### 📝 Instructions
+### 📝 Instructions
 1. **Create a `deal_card()` function** to return a random card from the `cards` list.  
 2. Deal **2 cards** each to `user_cards` and `computer_cards`.  
 3. **Create `calculate_score()`**:

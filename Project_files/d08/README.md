@@ -1,10 +1,10 @@
-### Day 8: Caesar Cipher  
+## Day 8: Caesar Cipher  
 Build your own text encryption and decryption tool using Caesar Cipher logic!  
 This project introduces function inputs, parameter handling, and simple text transformations.
 
 📄 [View Solution](solution.py) 📄 [View My code](d8.py)  
 
-#### 🧠 Concepts Covered
+### 🧠 Concepts Covered
 - Functions with inputs  
 - Parameters and arguments  
 - Positional vs keyword arguments  
@@ -14,7 +14,7 @@ This project introduces function inputs, parameter handling, and simple text tra
 - Preserving non-alphabet characters  
 - Creating reusable logic with control flow
 
-#### 📝 Instructions
+### 📝 Instructions
 
 1. Create a function called `encrypt()` that takes `original_text` and `shift_amount` as parameters.
    - Shift each letter in the text **forwards** by the `shift_amount`.

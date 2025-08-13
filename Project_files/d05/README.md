@@ -1,10 +1,10 @@
-### Day 5: Password Generator  
+## Day 5: Password Generator  
 This program generates a secure password based on user preferences for letters, symbols, and numbers.  
 You'll practice combining loops and lists to build both simple and randomized password generators.
 
 📄 [View Solution](solution.py) 📄 [View My code](d5.py)  
 
-#### 🧠 Concepts Covered
+### 🧠 Concepts Covered
 - `for` loops and `range()`  
 - Code blocks and indentation  
 - List creation and manipulation  
@@ -12,7 +12,7 @@ You'll practice combining loops and lists to build both simple and randomized pa
 - User input handling  
 - String joining and shuffling
 
-#### 📝 Instructions
+### 📝 Instructions
 1. Ask the user:
    - How many **letters** they want in the password  
    - How many **symbols**  
@@ -23,7 +23,7 @@ You'll practice combining loops and lists to build both simple and randomized pa
    - A list of digits (`0-9`)  
 3. Combine the selected characters into a password.
 
-#### 🟢 Easy Version  
+### 🟢 Easy Version  
 Generate the password in a fixed order:  
 **`Letters → Symbols → Numbers`**
 
@@ -35,7 +35,7 @@ Output: fgdx$*924
 
 Characters are grouped together by type.
 
-#### 🔴 Hard Version  
+### 🔴 Hard Version  
 Generate the password with **`randomized order`**:  
 Characters are shuffled so there's **no pattern**.
 

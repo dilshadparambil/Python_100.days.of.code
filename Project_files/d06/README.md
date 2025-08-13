@@ -1,11 +1,11 @@
-### Day 6: Reeborg's World: Maze  
+## Day 6: Reeborg's World: Maze  
 Reeborg is lost in a maze!  
 Your task is to write a program that helps Reeborg find the exit by following the **right-hand rule** (always follow the wall on your right).  
 🌐 [Try it on Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)  
 
 📄 [View Solution](solution.py) 📄 [View My code](d6.py)  
 
-#### 🧠 Concepts Covered
+### 🧠 Concepts Covered
 - `while` loops and conditionals  
 - `if / elif / else` branching  
 - Custom functions  
@@ -18,7 +18,7 @@ Your task is to write a program that helps Reeborg find the exit by following th
   - `right_is_clear()` / `wall_on_right()`  
   - `at_goal()`
 
-#### 📝 Instructions
+### 📝 Instructions
 1. Reeborg must **keep moving** until it reaches the goal (`at_goal()`).
 2. Reeborg should:
    - Turn **right** if there’s a clear path.
