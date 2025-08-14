@@ -6,14 +6,12 @@ Welcome to my journey of completing 100 Python projects in 100 days. This challe
 
 ## 📅 Table of Contents
 
-| Day | Project Title                   | Link                                   |
-|-----|---------------------------------|----------------------------------------|
-| 1   | beginner                        | [click](Beginner.md)                   |
-| 15  | Coffee Machine Project          | [Day 15](Intermediate/d15/README.md)   |
-| 16  | Coffee Machine (OOP Version)    | [Day 16](Intermediate/d16/README.md)   |
-| 17  | Quiz Game                       | [Day 17](Intermediate/d17/README.md)   |
-
-
+| S.no  | Difficulty       | Goto                                     |
+|-------|------------------|------------------------------------------|
+|   1   | Beginner         | [Click Here](Beginner/README.md)         |
+|   2   | Intermediate     | [Click Here](Intermediate/README.md)     |
+|   3   | Intermediate++   |                                          |
+|   4   | Advanced         |                                          |
 
 
 ---
