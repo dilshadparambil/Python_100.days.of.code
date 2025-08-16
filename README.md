@@ -6,12 +6,12 @@ Welcome to my journey of completing 100 Python projects in 100 days. This challe
 
 ## 📅 Table of Contents
 
-| S.no  | Difficulty       | Goto                                     |
-|-------|------------------|------------------------------------------|
-|   1   | Beginner         | [Click Here](Beginner/README.md)         |
-|   2   | Intermediate     | [Click Here](Intermediate/README.md)     |
-|   3   | Intermediate++   |                                          |
-|   4   | Advanced         |                                          |
+|  S.no   | Difficulty       | Goto                                     |
+|---------|------------------|------------------------------------------|
+| 01 - 14 | Beginner         | [Click Here](Beginner/README.md)         |
+| 15 - 31 | Intermediate     | [Click Here](Intermediate/README.md)     |
+| 32 - 58 | Intermediate++   |                                          |
+| 59 - 81 | Advanced         |                                          |
 
 
 ---
