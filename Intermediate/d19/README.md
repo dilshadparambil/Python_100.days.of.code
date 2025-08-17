@@ -1,4 +1,4 @@
-## Day 18: Turtle Racing  
+## Day 19: Turtle Racing  
 A fun Python program that simulates a turtle race. Multiple turtles line up at the start and race across the screen, with the user betting on which turtle will win.
 
 📄 [View Solution](solution.py) 📄 [View My Code](d18.py)  
