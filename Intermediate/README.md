@@ -8,6 +8,7 @@
 | 18  | Hirst Painting                  | [Day 18](d18/README.md)   |
 | 19  | Turtle Racing                   | [Day 19](d19/README.md)   |
 | 20  | Snake Game Part 1               | [Day 20](d20/README.md)   |
+| 21  | Snake Game Part 2               | [Day 21](d21/README.md)   |
 
 
 

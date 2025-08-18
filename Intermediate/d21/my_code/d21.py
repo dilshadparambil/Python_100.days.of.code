@@ -1,3 +1,5 @@
+# Snake Game P2
+# You need to download snake.py, food.py, scoreboard.py from Intermediate/d21/my_code folder in order to run this file
 from turtle import Screen
 from score import Score
 from snake import Snake
