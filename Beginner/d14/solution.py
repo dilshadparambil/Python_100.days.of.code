@@ -1,4 +1,5 @@
-# Display art
+# Higher Lower Game 
+# You need to download art.py,game_data.py from Beginner/d14 folder in order to run this file
 from art import logo, vs
 from game_data import data
 import random

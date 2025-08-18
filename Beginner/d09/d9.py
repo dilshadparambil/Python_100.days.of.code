@@ -1,17 +1,6 @@
 # Blind Auction
-logo = r'''
-                         ___________
-                         \         /
-                          )_______(
-                          |"""""""|_.-._,.---------.,_.-._
-                          |       | | |               | | ''-.
-                          |       |_| |_             _| |_..-'
-                          |_______| '-' `'---------'` '-'
-                          )"""""""(
-                         /_________\\
-                       .-------------.
-                      /_______________\\
-'''
+# You need to download art.py from Beginner/d09 folder in order to run this file
+from art import logo
 auction={}
 
 def highest_bidder(dict_auction):

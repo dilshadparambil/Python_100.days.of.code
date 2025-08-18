@@ -1,3 +1,5 @@
+# Higher Lower Game 
+# You need to download art.py,game_data.py from Beginner/d14 folder in order to run this file
 import random
 import art
 from game_data import data

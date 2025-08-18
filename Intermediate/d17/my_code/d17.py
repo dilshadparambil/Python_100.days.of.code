@@ -1,3 +1,6 @@
+# Quiz Game
+# You need to download question_model.py, data.py, quiz_brain.py from Intermediate/d17/my_code folder in order to run this file
+
 from question_model import Question
 from data import question_data
 from quiz_brain import QuizBrain

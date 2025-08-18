@@ -1,3 +1,6 @@
+# Coffee Machine Project (OOP Version) 
+# You need to download menu.py,coffee_maker.py,money_machine.py from Intermediate/d16 folder in order to run this file
+
 from menu import Menu
 from coffee_maker import CoffeeMaker
 from money_machine import MoneyMachine

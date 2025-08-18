@@ -1,4 +1,4 @@
-#solution to reeborgs world maze
+# Solution to Reeborgs world Maze Challenge
 
 def turn_right():
   turn_left()

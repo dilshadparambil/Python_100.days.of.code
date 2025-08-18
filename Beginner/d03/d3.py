@@ -1,4 +1,4 @@
-#Treasure Island Project
+# Treasure Island Project
 print(r'''
 *******************************************************************************
           |                   |                  |                     |

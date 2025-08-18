@@ -1,3 +1,6 @@
+# Blackjack
+# You need to download art.py from Beginner/d11 folder in order to run this file
+
 import random
 from art import logo
 

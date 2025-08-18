@@ -1,3 +1,5 @@
+# Hangman game
+# You need to download d7_words.py,d7_art.py from Beginner/d07 folder in order to run this file
 import random
 
 from d7_words import word_list

@@ -1,3 +1,6 @@
+# Number Guessing Game 
+# You need to download art.py from Beginner/d12 folder in order to run this file
+
 from random import randint
 from art import logo
 

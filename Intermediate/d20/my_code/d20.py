@@ -1,4 +1,7 @@
-from turtle import Turtle,Screen
+# Snake Game P1
+# You need to download snake.py from Intermediate/d20/my_code folder in order to run this file
+
+from turtle import Screen
 from snake import Snake
 import time
 scr=Screen()

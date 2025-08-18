@@ -1,6 +1,1 @@
-def my_function():
-    print("Hello")
-    print("Bye")
-
-
-my_function()
+# Solution to Reeborgs world Maze Challenge
