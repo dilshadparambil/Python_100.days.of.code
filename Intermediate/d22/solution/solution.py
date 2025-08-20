@@ -1,3 +1,6 @@
+# Pong game
+# You need to download ball.py, paddle.py, scoreboard.py from Intermediate/d22/solution folder in order to run this file
+
 from turtle import Screen, Turtle
 from paddle import Paddle
 from ball import Ball

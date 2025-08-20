@@ -1,3 +1,6 @@
+# Pong game
+# You need to download ball.py, paddle.py, score.py from Intermediate/d22/my_code folder in order to run this file
+
 from turtle import Screen
 from paddle import Paddle
 from ball import Ball
