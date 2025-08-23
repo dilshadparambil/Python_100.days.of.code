@@ -1,36 +1,44 @@
-## Day 21: Snake Game Part 2  
-The second part of the Snake Game project. This stage enhances the game by adding food, score tracking, and collision detection with walls and the snake’s own tail.
+## Day 21: Snake Game (Part 2)  
+Enhancements to the Snake game with food, scoring, and collisions.  
 
-📄 [View Solution](solution/solution.py) 📄 [View My code](my_code/d21.py)   
+📄 [View Solution](solution/solution.py) 📄 [View My Code](my_code/d21.py)   
 
 ### 🧠 Concepts Covered
-- Inheritance in classes  
-- List slicing for handling snake segments  
-- Collision detection with objects and boundaries  
-- Updating the scoreboard dynamically  
-- Game over conditions  
+- **Inheritance between classes** (extending functionality)  
+- **Slicing lists** for handling segments of the snake  
+- **Collision detection** with objects, walls, and self  
+- **Updating scores dynamically** using a separate scoreboard class  
+- **Game over logic** and modular code structure  
 
 ### 📝 Instructions
 4. **Detect Collision with Food**  
-   - Place a `Food` object randomly on the screen.  
-   - If the snake’s head collides with the food:  
-     - Extend the snake by adding a new segment.  
-     - Refresh the food to a new random position.  
+   - Create a `Food` class that inherits from `Turtle`.  
+   - Configure it as a small circle with a random color.  
+   - Place it at random positions on the screen using `random.randint()`.  
+   - If the snake’s head is within a certain distance of the food (e.g., `<15` pixels):  
+     - Relocate the food.  
+     - Extend the snake by adding a new segment to the tail.  
      - Increase the score.  
 
 5. **Create a Scoreboard**  
-   - Build a `Scoreboard` class to track and display the score.  
-   - Update the score whenever the snake eats food.  
-   - Show “GAME OVER” when the player loses.  
+   - Build a `Scoreboard` class that also inherits from `Turtle`.  
+   - Display the current score at the top of the screen.  
+   - Add a method to update the score whenever food is eaten.  
+   - Add a `game_over()` method to display “GAME OVER” in the center when the game ends.  
 
 6. **Detect Collision with Wall**  
-   - Check if the snake’s head crosses the screen boundaries.  
-   - If true, end the game and display “GAME OVER”.  
+   - Check the x and y coordinates of the snake’s head.  
+   - If the head’s position is outside the boundaries (e.g., ±280 for a 600x600 screen):  
+     - Stop the game loop.  
+     - Call the `game_over()` method in the `Scoreboard`.  
 
 7. **Detect Collision with Tail**  
-   - Loop through all segments of the snake except the head.  
-   - If the head collides with any body part, the game ends.  
+   - Loop through all snake segments except the head (using list slicing).  
+   - If the head’s distance from any segment is <10 pixels:  
+     - Stop the game.  
+     - Call the `game_over()` method.  
 
-💡 **Extra Challenge**:
-- Add a high-score feature that persists between games.  
-- Make the snake move faster as the score increases.  
+💡 **Extra Challenge**:  
+- Add levels where speed increases as the score gets higher.  
+- Save the high score in a file so it persists between game sessions.  
+- Add a restart option after game over.  

@@ -1,5 +1,5 @@
 # Mail Merge 
-# You need to download the Input and Output directories from /my_code
+# You need to download the Input and Output directories from Intermediate/d24/my_code
 
 with open("./Input/Names/invited_names.txt") as name_file:
     name_list=name_file.readlines()

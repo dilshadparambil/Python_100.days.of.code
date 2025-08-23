@@ -5,25 +5,25 @@ The program manages resources, processes coins, and handles transactions.
 📄 [View Solution](solution.py) 📄 [View My code](d15.py)  
 
 ### 🧠 Concepts Covered
-- Dictionaries for storing menu items and resources  
-- Functions for modular code (report generation, resource check, transaction check, coffee making)  
-- Loops for continuous operation until turned off  
-- Conditional statements for different machine commands  
-- Floating-point calculations for money handling  
-- Rounding for change calculations
+- Using **dictionaries** to store menu items, prices, and resources  
+- Creating **functions** for modular tasks (report generation, resource check, transaction check, making coffee)  
+- Using **loops** for continuous machine operation until turned off  
+- Applying **conditional statements** to handle different commands (`off`, `report`, drink orders)  
+- Performing **floating-point calculations** for money handling  
+- **Rounding values** when returning change to customers  
 
 ### 📝 Instructions
-
-1. **Prompt user**:  
+1. **Prompt the User**  
    - Ask: `"What would you like? (espresso/latte/cappuccino):"`  
-   - Check the input and decide the next action.  
-   - After serving a drink or completing an action, show the prompt again for the next customer.
+   - Process the input and take the appropriate action.  
+   - After serving a drink or completing another task, re-display the prompt for the next customer.  
 
-2. **Turn off the machine**:  
-   - If the user types `"off"`, stop the program.
+2. **Turn Off the Machine**  
+   - If the user types `"off"`, terminate the program immediately.  
+   - This serves as a hidden feature for maintainers.  
 
-3. **Print report**:  
-   - If the user types `"report"`, display current resources:  
+3. **Print Report**  
+   - If the user types `"report"`, display the current status of machine resources:  
      ```
      Water: 100ml  
      Milk: 50ml  
@@ -31,36 +31,38 @@ The program manages resources, processes coins, and handles transactions.
      Money: $2.5
      ```
 
-4. **Check resources sufficient?**  
-   - Before making a drink, check if there are enough ingredients.  
-   - If any resource is insufficient, print:  
-     `"Sorry there is not enough <resource>."`  
-   - Do not proceed with the order.
+4. **Check Resource Availability**  
+   - When a drink is requested, verify if all required resources are sufficient.  
+   - If any resource is lacking, print:  
+     `"Sorry, there is not enough <resource>."`  
+   - Cancel the order and return to the prompt.  
 
-5. **Process coins**:  
-   - If resources are enough, ask for coins:  
+5. **Process Coins**  
+   - If resources are sufficient, ask the user to insert coins.  
+   - Accept coins in the following denominations:  
      - Quarters = $0.25  
      - Dimes = $0.10  
      - Nickles = $0.05  
      - Pennies = $0.01  
-   - Calculate total money inserted.
+   - Calculate the total amount of money inserted.  
 
-6. **Check transaction successful?**  
-   - If money < drink cost → print `"Sorry that's not enough money. Money refunded."`  
-   - If money ≥ drink cost → add cost to machine’s profit.  
-   - If money > drink cost → return change, rounded to 2 decimal places.
+6. **Validate Transaction**  
+   - If total money < drink cost → print `"Sorry, that's not enough money. Money refunded."`  
+   - If total money ≥ drink cost →  
+     - Add the drink’s cost to the machine’s profit.  
+     - If excess money was provided, return change rounded to **2 decimal places**.  
 
-7. **Make coffee**:  
-   - Deduct required resources from machine.  
-   - Print: `"Here is your <drink>. Enjoy!"`  
-   - Example before buying latte:  
+7. **Make Coffee**  
+   - Deduct the required ingredients from machine resources.  
+   - Print a message to confirm: `"Here is your <drink>. Enjoy!"`  
+   - Example before purchasing a latte:  
      ```
      Water: 300ml  
      Milk: 200ml  
      Coffee: 100g  
      Money: $0
      ```
-     After buying latte:  
+     Example after purchasing a latte:  
      ```
      Water: 100ml  
      Milk: 50ml  
@@ -68,9 +70,7 @@ The program manages resources, processes coins, and handles transactions.
      Money: $2.5
      ```
 
-💡 **Extra Challenge**:
-- Add more drink options to the menu.  
-- Implement an admin password for accessing reports.  
-- Track total drinks sold per type.
-
----
+💡 **Extra Challenge**  
+- Add more drink options (e.g., mocha, americano).  
+- Implement an admin password to access the report.  
+- Track and display the number of drinks sold per type.  

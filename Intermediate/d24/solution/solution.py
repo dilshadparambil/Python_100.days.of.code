@@ -1,5 +1,5 @@
 # Mail Merge 
-# You need to download the Input and Output directories from /my_code
+# You need to download the Input and Output directories from Intermediate/d24/solution
 
 PLACEHOLDER = "[name]"
 
