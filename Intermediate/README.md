@@ -13,6 +13,7 @@
 | 23  | Turtle Crossing Game            | [Day 23](d23/README.md)   |
 | 24  | Mail Merge                      | [Day 24](d24/README.md)   |
 | 25  | U.S. States Game                | [Day 25](d25/README.md)   |
+| 26  | NATO Alphabet Project           | [Day 26](d26/README.md)   |
 
 
 
