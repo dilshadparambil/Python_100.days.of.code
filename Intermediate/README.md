@@ -16,6 +16,7 @@
 | 26  | NATO Alphabet Project           | [Day 26](d26/README.md)   |
 | 27  | Mile to Km Converter (GUI)      | [Day 27](d27/README.md)   |
 | 28  | Pomodoro Timer (GUI)            | [Day 28](d28/README.md)   |
+| 29  | Password Manager (GUI)          | [Day 29](d29/README.md)   |
 
 
 
