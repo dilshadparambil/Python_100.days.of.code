@@ -11,7 +11,7 @@
 import pandas,datetime,os,random,smtplib
 
 my_email="dilshadkareemparambil@gmail.com"
-password="zvgqypeikwrddtdc"
+password=os.getenv('EMAIL_APP_PASS')
 
 birthday_data=pandas.read_csv("./birthdays.csv")
 birthday_data=birthday_data.to_dict(orient='records')
