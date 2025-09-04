@@ -7,6 +7,7 @@
 | 34  | Quizzler App (Trivia API)       | [Day 34](d34/README.md)   |
 | 35  | Rain Alert App                  | [Day 35](d35/README.md)   |
 | 36  | Stock News Monitoring Project   | [Day 36](d36/README.md)   |
+| 37  | Habit Tracking Project          | [Day 37](d37/README.md)   |
 
 
 
