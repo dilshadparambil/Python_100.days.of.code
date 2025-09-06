@@ -9,6 +9,7 @@
 | 36  | Stock News Monitoring Project   | [Day 36](d36/README.md)   |
 | 37  | Habit Tracking Project          | [Day 37](d37/README.md)   |
 | 38  | Workout Tracking Project        | [Day 38](d38/README.md)   |
+| 39  | Flight Deal Finder              | [Day 39](d39/README.md)   |
 
 
 
