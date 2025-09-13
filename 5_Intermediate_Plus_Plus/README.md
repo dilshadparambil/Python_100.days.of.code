@@ -3,7 +3,7 @@
 | Day | Project Title                       | Link                      |
 |-----|-------------------------------------|---------------------------|
 | 45  | Top 100 Movies List (Web Scraping)  | [Day 45](d45/README.md)   |
-| 46  |                                     | [Day 46](d46/README.md)   |
+| 46  | Music Time Machine                  | [Day 46](d46/README.md)   |
 | 47  |                                     | [Day 47](d47/README.md)   |
 | 48  |                                     | [Day 48](d48/README.md)   |
 | 49  |                                     | [Day 49](d49/README.md)   |
