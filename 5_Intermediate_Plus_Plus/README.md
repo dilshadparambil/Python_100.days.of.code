@@ -6,7 +6,7 @@
 | 46  | Music Time Machine                  | [Day 46](d46/README.md)   |
 | 47  | Automated Amazon Price Tracker      | [Day 47](d47/README.md)   |
 | 48  | Game Playing Bot                    | [Day 48](d48/README.md)   |
-| 49  |                                     | [Day 49](d49/README.md)   |
+| 49  | Automated Gym Workout Booking       | [Day 49](d49/README.md)   |
 | 50  |                                     | [Day 50](d50/README.md)   |
 | 51  |                                     | [Day 51](d51/README.md)   |
 | 52  |                                     | [Day 52](d52/README.md)   |
