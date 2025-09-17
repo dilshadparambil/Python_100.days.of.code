@@ -1,7 +1,14 @@
-# 📅 Advanced + Projects
+# 📅 Advanced Projects
 
 | Day | Project Title                   | Link                      |
 |-----|---------------------------------|---------------------------|
+| 59  |                                 | [Day 59](d59/README.md)   |
+| 60  |                                 | [Day 60](d60/README.md)   |
+| 61  |                                 | [Day 61](d61/README.md)   |
+| 62  |                                 | [Day 62](d62/README.md)   |
+| 63  |                                 | [Day 63](d63/README.md)   |
+| 64  |                                 | [Day 64](d64/README.md)   |
+| 65  | Web Design School -             | [Day 65](d65/README.md)   |
 | 66  |                                 | [Day 66](d66/README.md)   |
 | 67  |                                 | [Day 67](d67/README.md)   |
 | 68  |                                 | [Day 68](d68/README.md)   |
@@ -18,3 +25,12 @@
 | 79  |                                 | [Day 79](d79/README.md)   |
 | 80  |                                 | [Day 80](d80/README.md)   |
 | 81  |                                 | [Day 81](d81/README.md)   |
+
+
+
+
+
+    
+
+
+---
