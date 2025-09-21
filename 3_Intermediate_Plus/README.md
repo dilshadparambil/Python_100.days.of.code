@@ -24,7 +24,7 @@
 | 51  | Web Automation - Internet Speed Complaining Twitter Bot     | [Day 51](d51/README.md)   |
 | 52  | Web Automation - Instagram Followers Bot                    | [Day 52](d52/README.md)   |
 | 53  | Web Automation - Zillow Data Entry Bot                      | [Day 53](d53/README.md)   |
-| 54  |                  | [Day 54](d54/README.md)   |
+| 54  | Create Your Own Python Decorator                            | [Day 54](d54/README.md)   |
 | 55  |                  | [Day 55](d55/README.md)   |
 | 56  |                  | [Day 56](d56/README.md)   |
 | 57  |                  | [Day 57](d57/README.md)   |
