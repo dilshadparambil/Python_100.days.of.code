@@ -25,7 +25,7 @@
 | 52  | Web Automation - Instagram Followers Bot                    | [Day 52](d52/README.md)   |
 | 53  | Web Automation - Zillow Data Entry Bot                      | [Day 53](d53/README.md)   |
 | 54  | Create Your Own Python Decorator                            | [Day 54](d54/README.md)   |
-| 55  |                  | [Day 55](d55/README.md)   |
+| 55  | Flask Project - Higher Lower URLs                           | [Day 55](d55/README.md)   |
 | 56  |                  | [Day 56](d56/README.md)   |
 | 57  |                  | [Day 57](d57/README.md)   |
 | 58  | Web Foundation - | [Day 58](d58/README.md)   |           
