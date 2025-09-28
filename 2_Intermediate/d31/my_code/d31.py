@@ -15,7 +15,7 @@ except FileNotFoundError:
 
 
 data=data.to_dict(orient='records')
-
+print(data)
 current_card={}
 
 def click_yes():
