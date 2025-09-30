@@ -1,11 +1,11 @@
-# 📅 Advanced Projects
+x# 📅 Advanced Projects
 
 | Day | Project Title                                                                   | Link                      |
 |-----|---------------------------------------------------------------------------------|---------------------------|
 | 59  | Flask - Blog Capstone Project (Part 2 - Adding Styling)                         | [Day 59](d59/README.md)   |
 | 60  | Flask - Blog Capstone Project (Part 2a – Contact Form with POST Request)        | [Day 60](d60/README.md)   |
 | 61  | Flask - Secrets Website                                                         | [Day 61](d61/README.md)   |
-| 62  |                                                                                 | [Day 62](d62/README.md)   |
+| 62  | Flask - Coffee and Wifi                                                         | [Day 62](d62/README.md)   |
 | 63  |                                                                                 | [Day 63](d63/README.md)   |
 | 64  |                                                                                 | [Day 64](d64/README.md)   |
 | 65  | Web Design School -                                                             | [Day 65](d65/README.md)   |
