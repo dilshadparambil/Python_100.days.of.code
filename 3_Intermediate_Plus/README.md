@@ -27,7 +27,7 @@
 | 54  | Create Your Own Python Decorator                                | [Day 54](d54/README.md)   |
 | 55  | Flask - Higher Lower URLs                                       | [Day 55](d55/README.md)   |
 | 56  | Flask - Name Card Website                                       | [Day 56](d56/README.md)   |
-| 57  | Flask - Blog Capstone Project (Part 1 – Templating)             | [Day 57](d57/README.md)   |
+| 57  | Flask,Jinja - Blog Capstone Project (Part 1 – Templating)       | [Day 57](d57/README.md)   |
 | 58  | Web Foundation - TinDog Website                                 | [Day 58](d58/README.md)   |           
 
 
