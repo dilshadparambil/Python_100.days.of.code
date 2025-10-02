@@ -7,7 +7,7 @@ x# 📅 Advanced Projects
 | 61  | Flask, Flask-WTF - Secrets Website                                                      | [Day 61](d61/README.md)   |
 | 62  | Flask - Coffee and Wifi                                                                 | [Day 62](d62/README.md)   |
 | 63  | Flask, SQLite3 - Virtual Bookshelf                                                      | [Day 63](d63/README.md)   |
-| 64  |                                      | [Day 64](d64/README.md)   |
+| 64  | Flask, SQAlchemy - Top 10 Movies Website                                                | [Day 64](d64/README.md)   |
 | 65  | Web Design School -                  | [Day 65](d65/README.md)   |
 | 66  |                                      | [Day 66](d66/README.md)   |
 | 67  |                                      | [Day 67](d67/README.md)   |
