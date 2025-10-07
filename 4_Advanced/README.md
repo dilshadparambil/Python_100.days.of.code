@@ -1,4 +1,4 @@
-x# 📅 Advanced Projects
+# 📅 Advanced Projects
 
 | Day | Project Title                                                                           | Link                      |
 |-----|-----------------------------------------------------------------------------------------|---------------------------|
@@ -9,7 +9,7 @@ x# 📅 Advanced Projects
 | 63  | Flask, SQLite3 - Virtual Bookshelf                                                      | [Day 63](d63/README.md)   |
 | 64  | Flask, SQAlchemy - Top 10 Movies Website                                                | [Day 64](d64/README.md)   |
 | 65  | Web Design School - Café Webpage                                                        | [Day 65](d65/README.md)   |
-| 66  |                                      | [Day 66](d66/README.md)   |
+| 66  | REST API - Café & Wifi                                                                  | [Day 66](d66/README.md)   |
 | 67  |                                      | [Day 67](d67/README.md)   |
 | 68  |                                      | [Day 68](d68/README.md)   |
 | 69  |                                      | [Day 69](d69/README.md)   |
