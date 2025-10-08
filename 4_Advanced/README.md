@@ -10,7 +10,7 @@
 | 64  | Flask, SQAlchemy - Top 10 Movies Website                                                | [Day 64](d64/README.md)   |
 | 65  | Web Design School - Café Webpage                                                        | [Day 65](d65/README.md)   |
 | 66  | REST API - Café & Wifi                                                                  | [Day 66](d66/README.md)   |
-| 67  |                                      | [Day 67](d67/README.md)   |
+| 67  | Flask, SQAlchemy, REST - Blog Capstone Project (Part 3 – RESTful Routing)               | [Day 67](d67/README.md)   |
 | 68  |                                      | [Day 68](d68/README.md)   |
 | 69  |                                      | [Day 69](d69/README.md)   |
 | 70  |                                      | [Day 70](d70/README.md)   |
